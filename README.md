@@ -14,7 +14,7 @@ Even more purpose
 
 ## Hot To Contribute
 
-This repository is for showing how Git and GitHub work
+Please fork this repo and issue pull requests
 
 Sample website with plenty of files for demos
 
