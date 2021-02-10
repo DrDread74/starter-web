@@ -1,1 +1,4 @@
+*.orig
 *.blah
+log/
+.DS_Store
